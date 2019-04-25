@@ -30,10 +30,6 @@ figcaption {
   display: inline-block;
 }
 
-#details {
-  width: 100%;
-}
-
 #details div {
   display: block;
   float: left;
