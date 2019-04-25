@@ -30,3 +30,6 @@ figcaption {
   display: inline-block;
 }
 
+#details {
+  display: horizontal;
+}
