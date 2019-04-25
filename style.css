@@ -31,6 +31,5 @@ figcaption {
 }
 
 #details {
-  float: right;
   display: inline-block;
 }
