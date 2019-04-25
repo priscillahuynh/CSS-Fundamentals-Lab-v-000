@@ -30,9 +30,9 @@ figcaption {
   display: inline-block;
 }
 
-#details {
-  text-align: center;
-}
+/*#details {*/
+/*  text-align: center;*/
+/*}*/
 
 #details div {
   display: block;
