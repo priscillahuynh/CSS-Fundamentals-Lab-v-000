@@ -34,8 +34,8 @@ figcaption {
   display: block;
 }
 
-/*#details div {*/
-/*  float: left;*/
-/*  background-color: red;*/
-/*  width: 100%;*/
-/*}*/
+#details div {
+  float: left;
+  background-color: red;
+  width: 100%;
+}
