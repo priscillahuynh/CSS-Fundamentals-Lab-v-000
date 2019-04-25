@@ -34,3 +34,6 @@ figcaption {
   text-align: center;
 }
 
+#details div {
+  display: inline-block;
+}
