@@ -31,5 +31,5 @@ figcaption {
 }
 
 #details {
-  display: inline-block;
+  text-align: center;
 }
